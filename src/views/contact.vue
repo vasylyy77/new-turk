@@ -6,6 +6,7 @@
     >contact</h1>
     <p>{{sa}}</p>
     <h2>dfdgdg</h2>
+    <p>hi</p>
 </div>
 </template>
 <script>
